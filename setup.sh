@@ -126,7 +126,7 @@ fi
 sleep 3
 echo "------------------------------------- "
 echo "------------------------------------- "
-echo "设备将在30s后重新启动并开始进行数据上传"
+echo "设备将在10s后重新启动并开始进行数据上传"
 echo "UUID将会在每次连接到ssh服务时打印在终端上"
 echo "请前往以下网址添加设备UUID并设置设备位置"
 echo "https://flightadsb.variflight.com/share-data/script"
