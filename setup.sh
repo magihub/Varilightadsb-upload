@@ -65,7 +65,7 @@ fi
 #克隆仓库文件
 echo "正在克隆仓库文件"
 echo "-----------------------------------"
-git clone https://ghproxy.com/https://github.com/HLLF-FAN/Varilightadsb-upload.git /root/variflight
+git clone https://ghproxy.com/https://github.com/magihub/Varilightadsb-upload.git /root/variflight
 echo "-----------------------------------"
 echo "仓库文件克隆完成"
 echo "-----------------------------------"
